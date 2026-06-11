@@ -18,7 +18,7 @@ jobs:
   publish:
     uses: yoichiojima-2/nonnative/.github/workflows/publish.yml@main
     with:
-      vault-dir: notes
+      vault-dir: .
       title: knowledge
       tagline: personal notes, published
       base-path: /knowledge
