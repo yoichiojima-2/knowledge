@@ -1,0 +1,28 @@
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    uses: yoichiojima-2/nonnative/.github/workflows/publish.yml@main
+    with:
+      vault-dir: notes
+      title: knowledge
+      tagline: personal notes, published
+      base-path: /knowledge
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
