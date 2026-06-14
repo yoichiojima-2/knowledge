@@ -1,6 +1,6 @@
 # knowledge
 
-Personal Obsidian-compatible markdown vault.
+Personal Obsidian-compatible markdown vault — published at **[yoichiojima-2.github.io/knowledge](https://yoichiojima-2.github.io/knowledge/)**.
 
 Markdown notes and assets live in `vault/`, keeping repo-level docs and
 development files separate from the Obsidian vault. Publishing is handled by
