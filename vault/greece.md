@@ -46,6 +46,7 @@ what greece bequeathed is less a body of correct conclusions — most of its spe
 - [[science]] — the modern continuation of *logos*: explaining the world by impersonal principles open to challenge
 - [[popper]] — makes explicit the greek assumption that a claim is only worth holding while it survives argument
 - [[christianity]] — the rival inheritance: greek *logos* and hebrew revelation are the two streams western thought is built from
+- [[naxos]] — one island made concrete: where the archaic greek world's marble wealth bought it a place in the sculptural revolution
 
 ## sources
 
