@@ -32,4 +32,10 @@ writing the test first forces you to define the interface before implementing it
 - [[clean-architecture]] — designing the interface from the caller's side before implementing it
 - [[abstraction-layers]] — test-first as a way to define what a layer promises before building what's underneath
 
+## sources
+
+- [test driven development — martin fowler](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+- [test-driven development: by example — kent beck](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
+- [test-driven development — wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+
 #domain/computer-science #pattern/feedback-loop #pattern/interface

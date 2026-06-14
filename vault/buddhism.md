@@ -4,6 +4,9 @@ domain: philosophy
 
 # buddhism
 
+![seated buddha statue at the sarnath museum](https://commons.wikimedia.org/wiki/Special:FilePath/Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg)
+*the buddha preaching his first sermon, sarnath museum — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg)*
+
 > **in one line:** buddhism begins with an honest diagnosis — something in human experience keeps going wrong — and works outward from there to the structure of the self, the root of suffering, and a path toward liberation that scales from the personal to the universal.
 
 ## the four noble truths
@@ -90,5 +93,10 @@ but compassion needs wisdom to sustain itself. compassion without the insight of
 - [[stoicism]]
 - [[entropy]]
 - [[ego]]
+
+## sources
+
+- [buddha — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/buddha/)
+- [buddha — internet encyclopedia of philosophy](https://iep.utm.edu/buddha/)
 
 #domain/philosophy #pattern/coupling #pattern/caching #pattern/observability #pattern/abstraction #pattern/dependency-injection #pattern/optimization

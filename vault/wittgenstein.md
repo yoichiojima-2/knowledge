@@ -4,6 +4,9 @@ domain: philosophy
 
 # ludwig wittgenstein
 
+![portrait photograph of ludwig wittgenstein, 1929](https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Wittgenstein_1929.jpg)
+*ludwig wittgenstein in 1929 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_1929.jpg)*
+
 > **in one line:** wittgenstein wrote two incompatible philosophies of language — the early view that meaning is a fixed correspondence between words and facts, and the late view that meaning is nothing more than how words are actually used — and the second was a repudiation of the first.
 
 ## two philosophies, one philosopher
@@ -52,5 +55,10 @@ the overall movement is from meaning as a fixed, formal correspondence to meanin
 - [[descartes]] — the opposite bet: descartes grounds meaning in one mind; wittgenstein's no-private-language argument says it can't be grounded there
 - [[philosophy]] — his aim to dissolve philosophical problems by showing them as confusions of language
 - [[kant]] — another thinker who located structure somewhere other than the world: for kant, in the mind's forms; for wittgenstein, in public linguistic practice
+
+## sources
+
+- [ludwig wittgenstein — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/wittgenstein/)
+- [ludwig wittgenstein — internet encyclopedia of philosophy](https://iep.utm.edu/wittgens/)
 
 #domain/philosophy #pattern/versioning #pattern/consensus

@@ -4,6 +4,9 @@ domain: religion
 
 # christianity
 
+![christ crucified, painted by diego velázquez c. 1632](https://commons.wikimedia.org/wiki/Special:FilePath/Cristo_crucificado.jpg)
+*"christ crucified" by diego velázquez, c. 1632 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Cristo_crucificado.jpg)*
+
 > **in one line:** christianity is a diagnosis and a remedy — human beings are separated from God by a structural fault they cannot repair themselves, and the solution arrives through a mediator who absorbs that fault and makes reconciliation possible through grace rather than personal achievement.
 
 ## the core diagnosis
@@ -60,5 +63,9 @@ christian theology insists that history is not an open-ended process. the world 
 - [[judaism]]
 - [[islam]]
 - [[philosophy]]
+
+## sources
+
+- [christianity — britannica](https://www.britannica.com/topic/Christianity)
 
 #domain/religion #pattern/mediation #pattern/abstraction #pattern/versioning

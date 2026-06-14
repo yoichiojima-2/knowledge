@@ -33,4 +33,8 @@ three ideas make this work:
 - [[react]] — components hide their internals behind a small declarative surface
 - [[coupling]]
 
+## sources
+
+- [abstraction layer — wikipedia](https://en.wikipedia.org/wiki/Abstraction_layer)
+
 #domain/computer-science #pattern/abstraction-layers #pattern/modularity

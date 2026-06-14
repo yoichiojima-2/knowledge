@@ -4,6 +4,9 @@ domain: computer-science
 
 # turing machine
 
+![portrait photograph of alan turing aged 16](https://commons.wikimedia.org/wiki/Special:FilePath/Alan_Turing_Aged_16.jpg)
+*alan turing, aged 16 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Alan_Turing_Aged_16.jpg)*
+
 > **in one line:** the turing machine is a stripped-down formal model of computation — the minimal definition of what "computing" means, and the ceiling that every real computer operates beneath, never above.
 
 ## what it is
@@ -46,5 +49,10 @@ it is impossible to write a program that, given any other program and input, cor
 - [[large-language-model]] — a statistical inhabitant of the computable space, bounded by a finite context where the turing machine assumed an infinite tape
 - [[philosophy]]
 - [[science]]
+
+## sources
+
+- [turing machines — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/turing-machine/)
+- [the church-turing thesis — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/church-turing/)
 
 #domain/computer-science #pattern/abstraction #pattern/interpreter #pattern/hard-limits

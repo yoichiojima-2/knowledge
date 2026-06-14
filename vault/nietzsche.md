@@ -4,6 +4,9 @@ domain: philosophy
 
 # friedrich nietzsche
 
+![portrait photograph of friedrich nietzsche, c. 1875](https://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche187a.jpg)
+*friedrich nietzsche, c. 1875 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg)*
+
 > **in one line:** nietzsche diagnoses the quiet collapse of the religious and metaphysical foundations western values rested on — "God is dead" — and asks whether we can create our own values in the aftermath rather than sliding into meaninglessness.
 
 ## the diagnosis
@@ -45,5 +48,12 @@ two further tests. **eternal recurrence** is a thought experiment: suppose you h
 - [[philosophy]] — genealogy as a method that asks not whether a value is true but where it came from and whom it served
 - [[science]] — perspectivism as a challenge to the idea of a view-from-nowhere, objective truth
 - [[feedback-loop]] — ressentiment as a self-reinforcing cycle that reshapes values from within
+
+## sources
+
+- [friedrich nietzsche — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/nietzsche/)
+- [friedrich nietzsche — internet encyclopedia of philosophy](https://iep.utm.edu/nietzsche/)
+- [*on the genealogy of morality* (1887) — full text, project gutenberg](https://www.gutenberg.org/ebooks/52319)
+- [*thus spoke zarathustra* (1883) — full text, project gutenberg](https://www.gutenberg.org/ebooks/1998)
 
 #domain/philosophy #pattern/versioning #pattern/feedback-loop #pattern/abstraction

@@ -4,6 +4,9 @@ domain: science
 
 # science
 
+![portrait of isaac newton by godfrey kneller, 1689](https://commons.wikimedia.org/wiki/Special:FilePath/GodfreyKneller-IsaacNewton-1689.jpg)
+*isaac newton by godfrey kneller, 1689 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:GodfreyKneller-IsaacNewton-1689.jpg)*
+
 > **in one line:** science is a self-correcting process for finding out where your picture of the world is wrong — not a body of final truths, but a method of locating and fixing errors in models that have not yet been falsified.
 
 ## the method as a loop
@@ -52,5 +55,11 @@ when the accumulated anomalies become overwhelming, a **paradigm shift** replace
 - [[greece]] — the origin of logos: explaining nature by impersonal principles open to challenge
 - [[liberal-arts]]
 - [[evolution]]
+
+## sources
+
+- [scientific method — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/scientific-method/)
+- [karl popper — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/popper/)
+- [why most published research findings are false — ioannidis, plos medicine (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
 #domain/science #pattern/feedback-loop #pattern/abstraction #pattern/consensus #pattern/versioning

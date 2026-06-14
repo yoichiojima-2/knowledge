@@ -4,6 +4,9 @@ domain: psychology
 
 # cognitive function
 
+![lateral view of the human cerebrum showing its principal fissures and lobes](https://commons.wikimedia.org/wiki/Special:FilePath/Gray728.svg)
+*principal fissures and lobes of the cerebrum, viewed laterally — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Gray728.svg)*
+
 > **in one line:** cognitive function is the set of information-processing operations the mind runs to turn raw sensory input into perception, memory, and action — a pipeline of specialized faculties, each with a limited budget, that together produce the seamless experience of "just thinking."
 
 ## the mind as a processing pipeline
@@ -47,5 +50,11 @@ cutting across all of this is a distinction between two modes. one is **fast, au
 - [[buddhism]] — attention training and the observation that the "self" dissolves into a flux of momentary mental events
 - [[science]] — perception as theory-laden: there is no raw, uninterpreted access to the world, only the brain's best model of it
 - [[large-language-model]] — next-token prediction as the same guess-from-priors move perception makes, hallucination as its confident false memory
+
+## sources
+
+- [cognitive science — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/cognitive-science/)
+- [memory — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/memory/)
+- [attention — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/attention/)
 
 #domain/psychology #pattern/abstraction-layers #pattern/caching #pattern/feedback-loop #pattern/hard-limits #pattern/coupling

@@ -35,4 +35,9 @@ the whole thing is a single trade: **speed bought with the risk of being out of 
 - [[coupling]]
 - [[abstraction-layers]]
 
+## sources
+
+- [cache (computing) — wikipedia](https://en.wikipedia.org/wiki/Cache_(computing))
+- [cache invalidation — wikipedia](https://en.wikipedia.org/wiki/Cache_invalidation)
+
 #domain/computer-science #pattern/caching

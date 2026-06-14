@@ -4,6 +4,9 @@ domain: computer-science
 
 # react
 
+![the official react logo](https://commons.wikimedia.org/wiki/Special:FilePath/React-icon.svg)
+*the react logo — cc by-sa 1.0, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:React-icon.svg)*
+
 > **in one line:** react is a way of building user interfaces by describing what the screen should look like for a given state, and letting a library figure out how to make the screen match.
 
 ## what it is
@@ -35,5 +38,10 @@ the whole thing is a single bargain: **give up direct control of the dom, and in
 - [[caching]] — memoization and the virtual-dom diff are caching: keep the previous result, recompute only what actually changed
 - [[lambda]] — components are just functions composed from functions; the ui is built the way lambda calculus builds everything
 - [[clean-code]] — small, single-purpose components are the readability argument applied to interface code
+
+## sources
+
+- [react quick start — official docs](https://react.dev/learn)
+- [thinking in react — official docs](https://react.dev/learn/thinking-in-react)
 
 #domain/computer-science #pattern/abstraction #pattern/feedback-loop #pattern/mutable-state #pattern/modularity

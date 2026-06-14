@@ -4,6 +4,9 @@ domain: computer-science
 
 # python
 
+![the official python programming language logo](https://commons.wikimedia.org/wiki/Special:FilePath/Python-logo-notext.svg)
+*the python logo — gpl, with trademark held by the python software foundation, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)*
+
 > **in one line:** python is a programming language that deliberately optimizes for human readability over machine speed — it trades raw execution performance for clarity, and recovers that speed by acting as a readable interface over fast compiled code underneath.
 
 ## what it is
@@ -42,5 +45,10 @@ the **global interpreter lock**: python's runtime only executes one thread's pyt
 - [[spark]] — python as the control layer driving a distributed JVM engine
 - [[wittgenstein]] — duck typing and family resemblance: identity by behavior rather than declared type
 - [[clean-code]] — "readability counts" as a shared design value
+
+## sources
+
+- [python 3 documentation — the official docs](https://docs.python.org/3/)
+- [the python tutorial — official](https://docs.python.org/3/tutorial/index.html)
 
 #domain/computer-science #pattern/abstraction-layers #pattern/abstraction

@@ -4,6 +4,9 @@ domain: philosophy
 
 # john locke
 
+![painted portrait of john locke](https://commons.wikimedia.org/wiki/Special:FilePath/John_Locke.jpg)
+*john locke — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:John_Locke.jpg)*
+
 > **in one line:** locke grounds legitimate government in consent — natural rights exist before the state, the state is authorized by the governed to protect them, and a government that violates those rights can be rightfully replaced.
 
 ## the framework
@@ -56,5 +59,11 @@ locke himself thought money — an agreed store of value that doesn't spoil — 
 - [[neoliberalism]] — property rights and limited government as foundations; locke is an intellectual root
 - [[capitalism]] — the labor theory of property is one philosophical foundation for private ownership
 - [[philosophy]]
+
+## sources
+
+- [john locke — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/locke/)
+- [john locke — internet encyclopedia of philosophy](https://iep.utm.edu/locke/)
+- [*second treatise of government* (1689) — full text, project gutenberg](https://www.gutenberg.org/ebooks/7370)
 
 #domain/philosophy #pattern/abstraction #pattern/interface #pattern/coupling

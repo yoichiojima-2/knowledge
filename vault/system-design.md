@@ -48,4 +48,8 @@ a few ideas recur in almost every design problem:
 - [[lambda]]
 - [[liberal-arts]]
 
+## sources
+
+- [the system design primer — donne martin (github)](https://github.com/donnemartin/system-design-primer)
+
 #domain/computer-science #pattern/abstraction-layers #pattern/modularity #pattern/coupling

@@ -32,4 +32,8 @@ the usual patterns:
 - [[caching]]
 - [[abstraction-layers]]
 
+## sources
+
+- [coupling (computer programming) — wikipedia](https://en.wikipedia.org/wiki/Coupling_(computer_programming))
+
 #domain/computer-science #pattern/coupling

@@ -4,6 +4,9 @@ domain: philosophy
 
 # thomas hobbes
 
+![painted portrait of thomas hobbes](https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Hobbes_(portrait).jpg)
+*thomas hobbes — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Thomas_Hobbes_(portrait).jpg)*
+
 > **in one line:** hobbes argues that without a common power to enforce order, human life collapses into a war of everyone against everyone — so rational people would consent to hand near-absolute authority to a single sovereign, trading liberty for security.
 
 ## the project
@@ -50,5 +53,11 @@ underneath the politics is a thoroughgoing **materialism.** hobbes treats human 
 - [[descartes]] — a contemporary mechanistic picture of mind and world, applied by hobbes to politics
 - [[feedback-loop]] — the pre-emption trap as a self-reinforcing spiral of mutual threat
 - [[philosophy]]
+
+## sources
+
+- [thomas hobbes — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/hobbes/)
+- [thomas hobbes: moral and political philosophy — internet encyclopedia of philosophy](https://iep.utm.edu/hobmoral/)
+- [*leviathan* (1651) — full text, project gutenberg](https://www.gutenberg.org/ebooks/3207)
 
 #domain/philosophy #pattern/spof #pattern/consensus #pattern/control

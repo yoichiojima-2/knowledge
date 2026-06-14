@@ -4,6 +4,9 @@ domain: economics
 
 # socialism
 
+![portrait photograph of karl marx](https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_001.jpg)
+*karl marx, 1875 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Karl_Marx_001.jpg)*
+
 > **in one line:** socialism changes who owns the means of production — from private owners who pocket the surplus to some form of collective that routes it back to shared benefit — and that single change in ownership has consequences throughout the rest of how an economy works.
 
 ## the ownership claim
@@ -61,5 +64,11 @@ without profit as the selection signal, investment choices fall to **political a
 - [[feedback-loop]] — the private accumulation loop collective ownership interrupts; and what replaces it
 - [[philosophy]]
 - [[science]]
+
+## sources
+
+- [socialism — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/socialism/)
+- [karl marx — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/marx/)
+- [socialism — britannica](https://www.britannica.com/topic/socialism)
 
 #domain/economics #pattern/decentralization #pattern/feedback-loop #pattern/coupling

@@ -4,6 +4,9 @@ domain: philosophy
 
 # rené descartes
 
+![painted portrait of rené descartes by frans hals](https://commons.wikimedia.org/wiki/Special:FilePath/Frans_Hals_-_Portret_van_René_Descartes.jpg)
+*rené descartes, after frans hals — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_René_Descartes.jpg)*
+
 > **in one line:** descartes strips every belief he can possibly doubt down to nothing, finds the one claim that survives even the most extreme skepticism, and rebuilds the entire structure of knowledge on top of that single verified foundation.
 
 ## the project
@@ -55,5 +58,12 @@ descartes made a parallel contribution in mathematics: the coordinate system tha
 - [[science]] — doubt as a test every belief must survive, anchored in reason rather than experiment
 - [[hume]] — the empiricist reply: introspection finds no solid "I", only a bundle of fleeting perceptions
 - [[buddhism]] — a contrasting view: descartes anchors on a solid self, buddhism denies one
+
+## sources
+
+- [rené descartes — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/descartes/)
+- [rené descartes: the mind-body distinction — internet encyclopedia of philosophy](https://iep.utm.edu/descartes/)
+- [*meditations on first philosophy* (1641) — full text, project gutenberg](https://www.gutenberg.org/ebooks/23306)
+- [*discourse on the method* (1637) — full text, project gutenberg](https://www.gutenberg.org/ebooks/59)
 
 #domain/philosophy #pattern/abstraction-layers #pattern/spof #pattern/coupling
