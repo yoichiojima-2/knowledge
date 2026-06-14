@@ -46,4 +46,8 @@ because bronze is immutable and silver/gold are derived from it, the system is a
 - [[clean-architecture]] — the one-way dependency (consumers depend on more refined data, never the reverse) mirrors the architectural dependency rule
 - [[spark]] — the typical processing engine for medallion pipelines
 
+## sources
+
+- [what is the medallion lakehouse architecture? — databricks documentation](https://docs.databricks.com/aws/en/lakehouse/medallion)
+
 #domain/computer-science #pattern/abstraction-layers #pattern/caching #pattern/coupling

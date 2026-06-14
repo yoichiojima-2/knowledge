@@ -30,4 +30,9 @@ the key elements are: a **target** (what the system is trying to achieve), a **m
 - [[react]] — state change drives a re-render, and reconciliation corrects the screen back to the state
 - [[coupling]]
 
+## sources
+
+- [feedback — wikipedia](https://en.wikipedia.org/wiki/Feedback)
+- [cybernetics — wikipedia](https://en.wikipedia.org/wiki/Cybernetics)
+
 #domain/engineering #pattern/feedback-loop #pattern/control

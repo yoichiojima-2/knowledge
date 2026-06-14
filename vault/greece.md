@@ -4,6 +4,9 @@ domain: philosophy
 
 # ancient greece
 
+![the parthenon on the athenian acropolis](https://commons.wikimedia.org/wiki/Special:FilePath/The_Parthenon_in_Athens.jpg)
+*the parthenon, athens — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg)*
+
 > **in one line:** a handful of greek-speaking cities invented the habit of explaining the world by reasons rather than stories — and that single shift, from *mythos* to *logos*, became the operating assumption of every discipline downstream.
 
 ## from mythos to logos
@@ -43,5 +46,10 @@ what greece bequeathed is less a body of correct conclusions — most of its spe
 - [[science]] — the modern continuation of *logos*: explaining the world by impersonal principles open to challenge
 - [[popper]] — makes explicit the greek assumption that a claim is only worth holding while it survives argument
 - [[christianity]] — the rival inheritance: greek *logos* and hebrew revelation are the two streams western thought is built from
+
+## sources
+
+- [ancient greek philosophy — internet encyclopedia of philosophy](https://iep.utm.edu/ancient-greek-philosophy/)
+- [socrates — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/socrates/)
 
 #domain/philosophy #pattern/abstraction #pattern/decentralization

@@ -30,4 +30,9 @@ code is **read far more often than it is written.** the bottleneck in software i
 - [[abstraction-layers]] — names and functions as interfaces that hide their implementation
 - [[python]] — "readability counts" as a design value built into a language
 
+## sources
+
+- [clean code: a handbook of agile software craftsmanship — robert c. martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+- [robert c. martin — wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
+
 #domain/computer-science #pattern/coupling #pattern/modularity #pattern/abstraction-layers

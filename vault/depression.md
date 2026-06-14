@@ -4,6 +4,9 @@ domain: psychology
 
 # depression
 
+![melencolia i, engraving by albrecht dürer, 1514](https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer_Melancholia_I.jpg)
+*melencolia i, engraving by albrecht dürer, 1514 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Melancholia_I.jpg)*
+
 > **in one line:** depression is not sadness but a sustained collapse of the machinery that generates motivation, pleasure, and meaning — a state best understood as a self-reinforcing loop, which is also why it can be interrupted.
 
 ## what it is
@@ -33,5 +36,10 @@ what makes depression coherent as a system is that every component feeds the oth
 - [[buddhism]] — an older diagnosis of suffering as produced by the mind's own loops of craving and aversion, with attention training as the intervention
 - [[nietzsche]] — nihilism as the cultural-scale version of the problem: what happens when the structures that generate meaning collapse
 - [[sartre]] — the existentialist response: meaning is not found but made, which is both a burden and the way out
+
+## sources
+
+- [depression — national institute of mental health](https://www.nimh.nih.gov/health/topics/depression)
+- [depressive disorder (depression) — world health organization](https://www.who.int/news-room/fact-sheets/detail/depression)
 
 #domain/psychology #pattern/feedback-loop #pattern/coupling #pattern/observability

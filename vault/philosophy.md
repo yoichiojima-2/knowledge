@@ -4,6 +4,9 @@ domain: philosophy
 
 # philosophy
 
+![the school of athens by raphael, c. 1511](https://commons.wikimedia.org/wiki/Special:FilePath/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
+*the school of athens by raphael, c. 1511 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)*
+
 > **in one line:** philosophy examines the assumptions every other discipline takes for granted — asking what exists, what counts as knowledge, what makes reasoning valid, and what we ought to do — and periodically spins off new fields once those questions become answerable by a repeatable method.
 
 ## what philosophy does
@@ -49,5 +52,11 @@ what stays inside "philosophy" is, by this pattern, the set of questions that *d
 - [[science]]
 - [[greece]] — where the discipline began, with the move from mythos to logos
 - [[liberal-arts]]
+
+## sources
+
+- [metaphysics — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/metaphysics/)
+- [epistemology — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/epistemology/)
+- [classical logic — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/logic-classical/)
 
 #domain/philosophy #pattern/abstraction-layers #pattern/modularity #pattern/coupling

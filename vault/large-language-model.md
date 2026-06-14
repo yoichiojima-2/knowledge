@@ -4,6 +4,9 @@ domain: computer-science
 
 # large language model
 
+![diagram of the transformer model architecture, with stacked encoder and decoder blocks](https://commons.wikimedia.org/wiki/Special:FilePath/The-Transformer-model-architecture.png)
+*the transformer architecture — cc by-sa 3.0, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:The-Transformer-model-architecture.png)*
+
 > **in one line:** a large language model is a function trained to predict the next chunk of text from everything before it — and almost everything that looks like understanding is a side effect of doing that one task at enormous scale.
 
 ## what it is
@@ -45,5 +48,10 @@ the striking empirical fact is the **scaling law**: predictably, as you grow the
 - [[science]] — the worry about a model built from text alone, never checked against the world it describes
 - [[hume]] — prediction from past patterns with no guarantee about the next case; induction as the engine and the weakness both
 - [[abstraction-layers]] — the model as a layer that hides billions of weights behind the simple interface of a prompt
+
+## sources
+
+- [attention is all you need — vaswani et al. (2017), the paper that introduced the transformer](https://arxiv.org/abs/1706.03762)
+- [language models are few-shot learners — brown et al. (2020), the gpt-3 scaling-law paper](https://arxiv.org/abs/2005.14165)
 
 #domain/computer-science #pattern/abstraction #pattern/caching #pattern/feedback-loop #pattern/hard-limits

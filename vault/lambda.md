@@ -36,4 +36,9 @@ this is why programming has two traditions that are, at bottom, the same: the im
 - [[abstraction-layers]] — the function as the fundamental unit of abstraction: a named promise hiding an implementation
 - [[science]]
 
+## sources
+
+- [the lambda calculus — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/lambda-calculus/)
+- [the church–turing thesis — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/church-turing/)
+
 #domain/computer-science #pattern/abstraction #pattern/interpreter #pattern/hard-limits

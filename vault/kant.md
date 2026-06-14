@@ -4,6 +4,9 @@ domain: philosophy
 
 # immanuel kant
 
+![painted portrait of immanuel kant](https://commons.wikimedia.org/wiki/Special:FilePath/Immanuel_Kant_(painted_portrait).jpg)
+*immanuel kant — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Immanuel_Kant_(painted_portrait).jpg)*
+
 > **in one line:** kant relocates the structure of experience from the world into the mind — we never encounter reality as it is in itself, only as our mental faculties have already shaped and organized it.
 
 ## the copernican revolution in philosophy
@@ -54,5 +57,10 @@ in both ethics and epistemology, kant's move is the same: the law is found in th
 - [[philosophy]] — epistemology reframed around what the knowing subject contributes
 - [[wittgenstein]] — another thinker who located structure in the subject rather than the world
 - [[cognitive-function]] — the empirical study of the mental faculties kant argued for a priori
+
+## sources
+
+- [immanuel kant — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/kant/)
+- [immanuel kant — internet encyclopedia of philosophy](https://iep.utm.edu/kantview/)
 
 #domain/philosophy #pattern/abstraction-layers #pattern/interface

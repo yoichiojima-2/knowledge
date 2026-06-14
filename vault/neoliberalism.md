@@ -4,6 +4,9 @@ domain: economics
 
 # neoliberalism
 
+![portrait photograph of friedrich hayek](https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Hayek_portrait.jpg)
+*friedrich hayek, whose knowledge problem anchors the argument — cc by-sa 3.0, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Friedrich_Hayek_portrait.jpg)*
+
 > **in one line:** neoliberalism is the argument that markets coordinate economic activity better than central planners can — not primarily a moral claim but a practical one about how information flows and where decisions should be made.
 
 ## the core argument
@@ -54,5 +57,11 @@ the reason this is supposed to produce *better* outcomes, not just differently-o
 - [[science]]
 - [[philosophy]]
 - [[liberal-arts]]
+
+## sources
+
+- [neoliberalism — britannica](https://www.britannica.com/money/neoliberalism)
+- [markets — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/markets/)
+- [friedrich august hayek — econlib biography](https://www.econlib.org/library/Enc/bios/Hayek.html)
 
 #domain/economics #pattern/decentralization #pattern/feedback-loop #pattern/spof

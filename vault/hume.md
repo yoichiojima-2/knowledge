@@ -4,6 +4,9 @@ domain: philosophy
 
 # david hume
 
+![painted portrait of david hume](https://commons.wikimedia.org/wiki/Special:FilePath/Painting_of_David_Hume.jpg)
+*david hume — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Painting_of_David_Hume.jpg)*
+
 > **in one line:** hume pushes empiricism to its breaking point — if every idea must trace back to experience, then causation, the self, and the reliability of induction turn out to be habits of mind we rely on constantly but can never actually justify.
 
 ## the project
@@ -50,5 +53,11 @@ a final move with long consequences for ethics. hume notices that writers slide,
 - [[buddhism]] — the bundle theory of self closely parallels the buddhist denial of a permanent self
 - [[cognitive-function]] — the bundle of perceptions is the raw stream the cognitive faculties impose order on
 - [[philosophy]]
+
+## sources
+
+- [david hume — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/hume/)
+- [david hume — internet encyclopedia of philosophy](https://iep.utm.edu/hume/)
+- [*a treatise of human nature* (1739) — full text, project gutenberg](https://www.gutenberg.org/ebooks/4705)
 
 #domain/philosophy #pattern/caching #pattern/feedback-loop #pattern/abstraction

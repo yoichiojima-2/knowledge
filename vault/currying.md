@@ -37,4 +37,9 @@ some programming languages (notably haskell) adopt this by default: every functi
 - [[coupling]] — currying allows arguments to be supplied at different times, loosening when each input must be known
 - [[clean-code]] — point-free style as the cautionary case of cleverness over clarity
 
+## sources
+
+- [currying — haskellwiki](https://wiki.haskell.org/Currying)
+- [partial application — haskellwiki](https://wiki.haskell.org/Partial_application)
+
 #domain/computer-science #pattern/abstraction #pattern/interface

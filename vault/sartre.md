@@ -4,6 +4,9 @@ domain: philosophy
 
 # jean-paul sartre
 
+![portrait photograph of jean-paul sartre, 1965](https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Paul_Sartre_1965.jpg)
+*jean-paul sartre in 1965 — cc by-sa 3.0 nl, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1965.jpg)*
+
 > **in one line:** sartre claims that human beings have no given nature or purpose — existence precedes essence — which makes us radically free and therefore wholly responsible for what we make of ourselves, a freedom we constantly try to flee.
 
 ## the project
@@ -40,5 +43,10 @@ freedom comes with a weight sartre refuses to soften. because you are the author
 - [[kant]] — a different basis for freedom and responsibility: kant grounds them in universal reason, sartre in groundless choice
 - [[philosophy]] — existentialism as the claim that we have no given essence and must define ourselves through action
 - [[buddhism]] — a striking contrast: both deny a fixed self, but buddhism aims to release clinging while sartre demands we shoulder radical responsibility
+
+## sources
+
+- [jean-paul sartre — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/sartre/)
+- [jean paul sartre: existentialism — internet encyclopedia of philosophy](https://iep.utm.edu/sartre-ex/)
 
 #domain/philosophy #pattern/control #pattern/coupling #pattern/abstraction

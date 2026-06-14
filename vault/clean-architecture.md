@@ -37,4 +37,8 @@ the core declares an **interface** — what it needs — and the outer layer wri
 - [[clean-code]] — the same instinct applied at smaller scale; and the shared failure mode of over-abstraction
 - [[tdd]] — the core behind well-defined interfaces is what makes it testable without external systems
 
+## sources
+
+- [the clean architecture — robert c. martin (uncle bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
 #domain/computer-science #pattern/coupling #pattern/abstraction-layers #pattern/modularity

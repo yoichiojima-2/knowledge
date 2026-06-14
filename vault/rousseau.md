@@ -4,6 +4,9 @@ domain: philosophy
 
 # rousseau
 
+![painted portrait of jean-jacques rousseau](https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques_Rousseau_(painted_portrait).jpg)
+*jean-jacques rousseau — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Jean-Jacques_Rousseau_(painted_portrait).jpg)*
+
 > **in one line:** rousseau asks not how individuals hand power to a state, but how a community can govern itself so that obeying the law is the same as obeying yourself — and his answer is the general will, a concept as powerful as it is difficult to pin down.
 
 ## the problem rousseau is solving
@@ -54,5 +57,11 @@ rousseau recognized that the general will needs citizens who are capable of thin
 - [[socialism]] — rousseau's critique of property inequality is an early strand of the socialist tradition
 - [[neoliberalism]] — the opposite pole: individual property rights and limited state as the foundation
 - [[philosophy]]
+
+## sources
+
+- [jean-jacques rousseau — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/rousseau/)
+- [jean-jacques rousseau — internet encyclopedia of philosophy](https://iep.utm.edu/rousseau/)
+- [*the social contract & discourses* — full text, project gutenberg](https://www.gutenberg.org/ebooks/46333)
 
 #domain/philosophy #pattern/consensus #pattern/feedback-loop #pattern/coupling

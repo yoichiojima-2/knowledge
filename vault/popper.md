@@ -4,6 +4,9 @@ domain: philosophy
 
 # karl popper
 
+![portrait photograph of karl popper, c. 1980](https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Popper.jpg)
+*karl popper, c. 1980 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Karl_Popper.jpg)*
+
 > **in one line:** popper argues that what makes a theory scientific is not that evidence can confirm it but that observation could in principle refute it — knowledge grows not by piling up confirmations but by bold conjectures and ruthless attempts to falsify them.
 
 ## the project
@@ -42,5 +45,10 @@ popper extended the idea to politics in *The Open Society and Its Enemies* (1945
 - [[statistics]] — the hypothesis test is falsification made quantitative: reject the null, never prove your claim true
 - [[feedback-loop]] — conjecture → test → refutation → revision, and the open society as politics that can correct its own errors
 - [[philosophy]]
+
+## sources
+
+- [karl popper — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/popper/)
+- [karl popper: philosophy of science — internet encyclopedia of philosophy](https://iep.utm.edu/pop-sci/)
 
 #domain/philosophy #pattern/feedback-loop #pattern/versioning #pattern/observability

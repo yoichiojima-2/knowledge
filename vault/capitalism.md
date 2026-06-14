@@ -4,6 +4,9 @@ domain: economics
 
 # capitalism
 
+![posthumous painted portrait of adam smith](https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Smith_The_Muir_portrait.jpg)
+*adam smith, the muir portrait, c. 1800 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Adam_Smith_The_Muir_portrait.jpg)*
+
 > **in one line:** capitalism is a system built around private ownership of productive capacity and a self-reinforcing loop — capital generates surplus, surplus becomes more capital, and whoever starts with the most tends to end with the most.
 
 ## what capitalism actually is
@@ -55,5 +58,12 @@ the dynamic is amplified by incumbency: existing capital can buy better legal re
 - [[feedback-loop]] — profit/loss as the signal that drives the cycle; accumulation as runaway positive feedback
 - [[coupling]] — capital ownership concentrates decision-making power in whoever holds the assets
 - [[1984]] — what accumulation of political rather than economic power produces at the limit
+
+## sources
+
+- [capitalism — britannica](https://www.britannica.com/money/capitalism)
+- [markets — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/markets/)
+- [exploitation — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/exploitation/)
+- [*the wealth of nations* (1776) — full text, project gutenberg](https://www.gutenberg.org/ebooks/3300)
 
 #domain/economics #pattern/feedback-loop #pattern/spof #pattern/coupling

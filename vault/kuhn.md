@@ -4,6 +4,9 @@ domain: philosophy
 
 # thomas kuhn
 
+![portrait photograph of thomas kuhn, 1977](https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Kuhn_(1977)_(cropped).jpg)
+*thomas kuhn in 1977 — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Thomas_Kuhn_(1977)_(cropped).jpg)*
+
 > **in one line:** kuhn argues that science does not advance by steady accumulation but lurches between long stretches of routine "normal science" and rare, disruptive revolutions in which one entire framework is replaced by another wholesale.
 
 ## the project
@@ -40,5 +43,9 @@ kuhn's most contested claim is **incommensurability**: rival paradigms can't be 
 - [[wittgenstein]] — a paradigm shift authored by a single mind: his early and late philosophies are two incommensurable frameworks for the same question
 - [[philosophy]] — how foundational assumptions go unexamined until a crisis makes them visible
 - [[feedback-loop]] — anomalies accumulating until the framework itself, not just its results, must be revised
+
+## sources
+
+- [thomas kuhn — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/thomas-kuhn/)
 
 #domain/philosophy #pattern/versioning #pattern/consensus #pattern/feedback-loop

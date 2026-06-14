@@ -4,6 +4,9 @@ domain: science
 
 # statistics
 
+![normal distribution showing standard deviations from the mean](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_deviation_diagram.svg)
+*the normal distribution, with the percentage of data falling within each standard deviation of the mean — public domain, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Standard_deviation_diagram.svg)*
+
 > **in one line:** statistics is the discipline of reasoning under uncertainty — drawing conclusions about a whole from a part, and being honest about how much you could be wrong.
 
 ## the core problem
@@ -47,5 +50,11 @@ two deep regularities make the whole enterprise possible. the **law of large num
 - [[hume]] — the problem of induction at the root of all inference: why a sample can never *guarantee* anything about the unseen rest
 - [[caching]] — a sample as a small, cheap stand-in for an expensive whole, valid only while it stays representative
 - [[feedback-loop]] — more data tightens the estimate: each observation corrects the running picture of the population
+
+## sources
+
+- [philosophy of statistics — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/statistics/)
+- [the problem of induction — stanford encyclopedia of philosophy](https://plato.stanford.edu/entries/induction-problem/)
+- [why most published research findings are false — ioannidis, plos medicine (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
 #domain/science #pattern/abstraction #pattern/feedback-loop #pattern/observability

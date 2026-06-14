@@ -4,6 +4,9 @@ domain: computer-science
 
 # apache spark
 
+![the official apache spark logo](https://commons.wikimedia.org/wiki/Special:FilePath/Apache_Spark_logo.svg)
+*the apache spark logo — apache license 2.0, with trademark held by the apache software foundation, via [wikimedia commons](https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg)*
+
 > **in one line:** spark is a distributed data-processing engine that presents a cluster of machines as a single collection — you write transformations as if working with one dataset, and the engine splits the work across many machines, runs it in parallel, and defers execution until you ask for a result.
 
 ## what it is
@@ -44,5 +47,10 @@ spark's original advantage over its predecessor (hadoop map-reduce) was keeping 
 - [[abstraction-layers]] — a distributed dataset presented as a single logical collection; lazy evaluation as an optimization layer
 - [[lambda]] — transformations pass functions; spark inherits the functional programming lineage
 - [[python]] — pyspark as the python interface to a java/scala execution engine
+
+## sources
+
+- [spark documentation overview — official](https://spark.apache.org/docs/latest/)
+- [apache spark documentation hub — official](https://spark.apache.org/documentation.html)
 
 #domain/computer-science #pattern/horizontal-scaling #pattern/caching #pattern/abstraction-layers
